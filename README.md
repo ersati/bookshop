@@ -1,3 +1,3 @@
-# ksiegarnia-wial95
+# bookshop
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/ksiegarnia-wial95)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/bookshop)
